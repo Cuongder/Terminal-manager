@@ -2,9 +2,6 @@
 
 **Terminal Manager** is a powerful desktop application that helps developers manage and execute command line tasks intuitively, efficiently, and aesthetically. Built with Python and CustomTkinter, it brings a modern terminal experience right to Windows.
 
-![Banner](https://via.placeholder.com/800x400?text=Terminal+Manager+Screenshot)
-*(Please replace this image with an actual screenshot of the application)*
-
 ## ✨ Key Features
 
 *   **📁 Smart Project Management**: 
@@ -84,4 +81,4 @@ All contributions are welcome! If you find a bug or want to add a new feature:
 This project is distributed under the MIT license. See the `LICENSE` file for more details.
 
 ---
-*Developed with ❤️ by [Your Name]*
+*Developed with ❤️ by [Cuongder]*
